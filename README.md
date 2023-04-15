@@ -8,6 +8,7 @@ The dataset containing various meteorological and air quality parameters was com
 ![image](https://user-images.githubusercontent.com/46166118/232245303-14c1ba38-73e3-4879-b6d1-779fc68e6ef9.png)
 
 References:
+
 [1]	Kumar, K., Pande, B.P. Air pollution prediction with machine learning: a case study of Indian cities. Int. J. Environ. Sci. Technol. (2022). https://doi.org/10.1007/s13762-022-04241-5
 
 [2]	Doreswamy HKS, Yogesh KM, Gad I (2020) Forecasting Air pollution particulate matter (PM2.5) using machine learning regression models. Procedia Comput Sci 171:2057–2066. https:// doi. org/ 10. 1016/j. procs. 2020. 04. 221
